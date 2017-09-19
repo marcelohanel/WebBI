@@ -1,0 +1,3 @@
+  ClassWebBI        - 2013.1.1.25
+  ConsoleWebBI      - 2013.1.1.25
+  WindowsFormsWebBI - 2013.1.1.25

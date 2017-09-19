@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <TempDir>C:\WebBI\Temp</TempDir>
+  <ConnectionString>Data Source=CGI-MARCELO-PC\SQLEXPRESS;Initial Catalog=WebBI;Persist Security Info=True;User ID=sa;Password=sqlserver</ConnectionString>
+</Config>
